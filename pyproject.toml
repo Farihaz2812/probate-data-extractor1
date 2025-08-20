@@ -1,0 +1,18 @@
+[project]
+name = "probate-data-extractor"
+version = "0.1.0"
+description = "A Streamlit app to extract data from probate records and search for assets."
+authors = [{ name = "Arbaz", email = "erarbazalam@gmail.com" }]
+requires-python = ">=3.10"
+dependencies = [
+    "streamlit",
+    "pandas",
+    "pymupdf",
+    "pytesseract",
+    "spacy",
+    "requests",
+    "beautifulsoup4",
+]
+
+[tool.uv]
+dev-dependencies = []
