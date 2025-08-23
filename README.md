@@ -240,7 +240,7 @@ If you encounter issues:
 
 ## 👥 Authors
 
-- **Arbaz Alam** - *Initial work* - [erarbazalam@gmail.com](mailto:erarbazalam@gmail.com)
+- **Arbaz Alam** - *Initial work* - [farihazaheer2812@gmail.com](mailto :farihazaheer2812@gmail.com)
 
 ## 🙏 Acknowledgments
 
